@@ -1,0 +1,105 @@
+{
+  "filter_isco_minor_group_for_5_percent": "251",
+  "queries": [
+    {
+      "id": "Q1",
+      "text": "data communications manager in aviation",
+      "relevant_occupation_id": "aviation-data-communications-manager"
+    },
+    {
+      "id": "Q2",
+      "text": "database architect",
+      "relevant_occupation_id": "database-designer"
+    },
+    {
+      "id": "Q3",
+      "text": "data warehouse architect",
+      "relevant_occupation_id": "data-warehouse-designer"
+    },
+    {
+      "id": "Q4",
+      "text": "network designer",
+      "relevant_occupation_id": "ict-network-architect"
+    },
+    {
+      "id": "Q5",
+      "text": "web application developer",
+      "relevant_occupation_id": "web-developer"
+    },
+    {
+      "id": "Q6",
+      "text": "manager for IT resilience",
+      "relevant_occupation_id": "ict-resilience-manager"
+    },
+    {
+      "id": "Q7",
+      "text": "enterprise designer",
+      "relevant_occupation_id": "enterprise-architect"
+    },
+    {
+      "id": "Q8",
+      "text": "recording audio technician",
+      "relevant_occupation_id": "recording-studio-technician"
+    },
+    {
+      "id": "Q9",
+      "text": "server administrator",
+      "relevant_occupation_id": "ict-system-administrator"
+    },
+    {
+      "id": "Q10",
+      "text": "DBA",
+      "relevant_occupation_id": "database-administrator"
+    },
+    {
+      "id": "Q11",
+      "text": "audio & video operator",
+      "relevant_occupation_id": "audio-visual-technician"
+    },
+    {
+      "id": "Q12",
+      "text": "database programmer",
+      "relevant_occupation_id": "database-developer"
+    },
+    {
+      "id": "Q13",
+      "text": "mobile app developer",
+      "relevant_occupation_id": "mobile-application-developer"
+    },
+    {
+      "id": "Q14",
+      "text": "artificial intelligence designer",
+      "relevant_occupation_id": "ict-intelligent-systems-designer"
+    },
+    {
+      "id": "Q15",
+      "text": "accessibility test specialist",
+      "relevant_occupation_id": "ict-accessibility-tester"
+    },
+    {
+      "id": "Q16",
+      "text": "SEO specialist",
+      "relevant_occupation_id": "search-engine-optimisation-expert"
+    },
+    {
+      "id": "Q17",
+      "text": "ICT security tester",
+      "relevant_occupation_id": "ethical-hacker"
+    },
+    {
+      "id": "Q18",
+      "text": "user-friendliness tester",
+      "relevant_occupation_id": "ict-usability-tester"
+    },
+    {
+      "id": "Q19",
+      "text": "camerawoman",
+      "relevant_occupation_id": "camera-operator"
+    },
+    {
+      "id": "Q20",
+      "text": "audio engineer and sound artist",
+      "relevant_occupation_id": "sound-designer"
+    }
+  ]
+}

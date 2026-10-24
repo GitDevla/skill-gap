@@ -1,0 +1,201 @@
+id,name,email,city,current_occupation_id,target_occupation_id
+1,Dr. A. Szabó Melinda,olahlaszlo1@example.com,Balatonkeresztberény,user-interface-developer,web-developer
+2,Dr. Sipos Veronika Ildikó,zolah2@example.com,Mezőligetkövesd,embedded-systems-software-developer,ict-application-developer
+3,Tóth Sára,janos613@example.com,Tótvárad,data-analyst,data-quality-specialist
+4,Dr. Lukács Edit Júlia,skovacs4@example.com,Nagykanizsa,database-designer,knowledge-engineer
+5,Dr. Tóth Istvánné,editszekeres5@example.com,Felsőhetvenvég,chief-ict-security-officer,ict-resilience-manager
+6,Hegedűs Katalin Judit,ildiko196@example.com,Győr,database-developer,database-designer
+7,Szabó K. Anna,agnesdeak7@example.com,Borsodtótnémeti,ict-capacity-planner,it-auditor
+8,Dr. Nagyné Székely Szilvia,peter768@example.com,Sopron,ethical-hacker,ict-security-technician
+9,J. Király András,zhajdu9@example.com,Keresztnádasd,ict-security-consultant,chief-ict-security-officer
+10,E. Nagy Erzsébet,anitamolnar10@example.com,Mátrahetvenváros,sound-editor,boom-operator
+11,Takácsné Prof. Dr. Illés Mária Csilla,edit5111@example.com,Hetvenapáti,software-developer,ict-application-configurator
+12,Soós Fanni Anna,mariakovacs12@example.com,Szombathely,video-operator,sound-operator
+13,Dr. Szabóné Kiss Katalin,simonadrian13@example.com,Magyarvár,chief-ict-security-officer,ict-security-manager
+14,Dr. Lakatos István,worosz14@example.com,Cegléd,performance-rental-technician,broadcast-technician
+15,Gál Olivér József,ipataki15@example.com,Dunakeszi,ict-usability-tester,ict-test-analyst
+16,Horváth E. Mihály,chajdu16@example.com,Budakeresztdevecser,ict-capacity-planner,ict-business-analyst
+17,Oláh Ilona,laszlofodor17@example.com,Borsodgyörgynémeti,digital-games-tester,ict-test-analyst
+18,Dr. Szabóné Kis Éva Erzsébet,eszabo18@example.com,Keresztfa,ict-help-desk-agent,telecommunications-engineering-technician
+19,Molnár Péter Tamás,kisluca19@example.com,Dunahetvenvára,ict-network-technician,ict-network-administrator
+20,Dr. Tóthné Takács Katalin,csabaszabo20@example.com,Békésszékkőrös,ict-security-technician,integration-engineer
+21,Balázs András László,bakosalexandra21@example.com,Lajosmellékhalas,ict-capacity-planner,system-configurator
+22,Molnár L. Ferenc,yhorvath22@example.com,Mártonkövesd,ict-system-analyst,software-analyst
+23,Lukácsné Boros Klára,stoth23@example.com,Dunatapolcakőrös,sound-artist,boom-operator
+24,Horváth Nagy Zsolt,istvanbalogh24@example.com,Tiszatapolcadevecser,ict-research-consultant,user-interface-developer
+25,Szabóné Kovács Kitti,katalinnagy25@example.com,Lajosfürdőharaszti,ict-system-integration-consultant,embedded-system-designer
+26,Dr. Horváth Tünde,zsolt6226@example.com,Dunaújváros,data-scientist,database-integrator
+27,Dr. M. Kovács Tamás,kovacspeter27@example.com,Mindszentvárad,video-operator,sound-operator
+28,Dr. Kiss Józsefné,ilona8028@example.com,Salgótarján,ict-integration-tester,software-tester
+29,Dudás E. Borbála,zoltan1829@example.com,Kunmártonváros,digital-forensics-expert,chief-ict-security-officer
+30,Varga K. Antal,dszabo30@example.com,Bácstótvég,ict-network-engineer,industrial-mobile-devices-software-developer
+31,Varga József,gabor7831@example.com,Kaposvár,broadcast-technician,telecommunications-engineering-technician
+32,Dr. Virág Zsófia,erzsebethegedus32@example.com,Zalaegerszeg,software-architect,ict-business-analysis-manager
+33,J. Horváth Milán,hajdupeter33@example.com,Felsőhátkőrös,ict-research-consultant,embedded-systems-software-developer
+34,Dr. Fekete Józsefné,nikolettborbely34@example.com,Lajoshídapáti,sound-artist,boom-operator
+35,Varga Mátyásné,andrasboros35@example.com,Mátratótnémeti,performance-rental-technician,mastering-engineer
+36,Dr. Oroszné Farkas Zsuzsanna Barbara,tamasgal36@example.com,Hátvég,sound-editor,recording-studio-technician
+37,Prof. Dr. Horváthné Török Andrea Györgyi,borbala1437@example.com,Hajdúhídfa,database-designer,data-warehouse-designer
+38,Dr. Boros Németh Irma,kisskatalin38@example.com,Hídkövesd,digital-games-tester,ict-integration-tester
+39,Pásztor András,belanagy39@example.com,Mosonmagyaróvár,audio-production-technician,video-technician
+40,Dr. Pap Á. Sándor,margit5640@example.com,Szombathely,ict-security-administrator,ict-security-manager
+41,Tóth K. Ágnes,ilonahorvath41@example.com,Salgótarján,user-interface-developer,digital-games-developer
+42,Horváth Péter,matyas7342@example.com,Veszprém,software-developer,mobile-application-developer
+43,Nemes Bélané Balázs Anna,janos3443@example.com,Nyírmindszentháza,database-developer,database-administrator
+44,Péter Rácz Norbert,omolnar44@example.com,Nyíregyháza,broadcast-technician,telecommunications-engineering-technician
+45,Kissné Kiss Katalin Zsófia,sandorpeter45@example.com,Békéscsaba,ict-system-analyst,software-analyst
+46,Lakatos Aranka Erzsébet,anikokis46@example.com,Nagykanizsa,data-centre-operator,database-integrator
+47,Dr. Németh R. Kristóf,jvincze47@example.com,Apáti,database-developer,database-integrator
+48,Farkas Zoltánné,dorahorvath48@example.com,Veszprém,ict-system-tester,software-tester
+49,Dr. E. Horváth Anna,renata1249@example.com,Borsodhetvennádasd,data-analyst,data-quality-specialist
+50,Nagyné Molnár Edit,anagy50@example.com,Haraszti,software-analyst,ict-system-analyst
+51,Nagyné Dr. Mészáros Krisztina,lajos6651@example.com,Szigetszentmiklós,recording-studio-technician,mastering-engineer
+52,Váradi Milánné,bszabo52@example.com,Hídhida,industrial-mobile-devices-software-developer,ict-system-developer
+53,Szűcs Ildikó,doragaspar53@example.com,Zalaegerszeg,ict-help-desk-manager,ict-capacity-planner
+54,Kiss Csaba,kovacsantal54@example.com,Mindszentnémeti,chief-ict-security-officer,ict-resilience-manager
+55,Dr. Németh Varga Árpád,eszter6455@example.com,Oroszhídkőrös,ict-system-administrator,ict-system-developer
+56,Novák Szabó István,laszlonikoletta56@example.com,Nagytapolcanádasd,digital-forensics-expert,ict-security-consultant
+57,Dr. Kovács Olivér,xpinter57@example.com,Mindszentváros,database-designer,ict-system-architect
+58,Dr. Kovács Brigitta Rózsa,meszarosjolan58@example.com,Hódmezővásárhely,video-technician,sound-operator
+59,Dr. Hegedüs Jánosné,janosbalog59@example.com,Nagykanizsa,ict-usability-tester,ict-integration-tester
+60,Dr. Lakatosné Nagy Magdolna,jozsef5060@example.com,Tóthalas,ict-intelligent-systems-designer,data-warehouse-designer
+61,Nemes Gyula Bálint,viktorgulyas61@example.com,Székesfehérvár,audio-visual-technician,camera-operator
+62,Dr. Balog Krisztina Hajnalka,gyula3162@example.com,Bánya,ict-system-administrator,ict-system-developer
+63,Dr. Rácz Ferenc,baloghmihaly63@example.com,Keresztvárad,sound-artist,broadcast-technician
+64,Varga Árpádné Pintér Anna,pappattila64@example.com,Lajosmellékkőrös,ict-test-analyst,ict-system-tester
+65,Orsós Gyulané Balogh Barbara,horvathroland65@example.com,Pilisfürdőharaszti,ict-security-administrator,ict-security-technician
+66,Juhász Judit,daniel7466@example.com,Mártonfalva,ict-capacity-planner,software-architect
+67,Tóth István András,attilagulyas67@example.com,Ligetharaszti,ict-system-integration-consultant,ict-consultant
+68,Pappné Dr. Kovács Éva,adamhorvath68@example.com,Zalaegerszeg,database-integrator,data-analyst
+69,Nagy László Sándor,annalaszlo69@example.com,Kistapolcavár,numerical-tool-and-process-control-programmer,ict-network-administrator
+70,J. Tóth Mária,ekovacs70@example.com,Mellékdevecser,ict-network-architect,software-architect
+71,Dr. Tóth Rita,jozsef3171@example.com,Cegléd,projectionist,video-technician
+72,Simon Fekete Marianna,cnemeth72@example.com,Tótharaszti,database-developer,database-designer
+73,Horváthné Dr. Rácz Réka Emma,ilonahorvath73@example.com,Mezőkeresztapáti,numerical-tool-and-process-control-programmer,user-interface-developer
+74,Tóth I. Zsófia,ohorvath74@example.com,Ligetvár,ict-business-analyst,web-content-manager
+75,Némethné Kocsis Kinga,richardjuhasz75@example.com,Pécs,integration-engineer,ict-network-administrator
+76,Dr. Kovács Józsefné,eva9476@example.com,Györgybánya,ict-security-manager,ict-disaster-recovery-analyst
+77,Pintérné Hegedüs Eszter,mnemeth77@example.com,Bácsligetvára,aviation-data-communications-manager,enterprise-architect
+78,Dr. Szabó Tünde Noémi,sarkozijudit78@example.com,Tapolcanémeti,video-technician,recording-studio-technician
+79,Tóth Tiborné Németh Anna,fszilagyi79@example.com,Oroszhátkövesd,data-analyst,data-quality-specialist
+80,Dr. Pál G. Dávid,margit6880@example.com,Pusztagyörgyvára,ict-system-tester,software-tester
+81,Dr. Balog Vass Bálint,balazserzsebet81@example.com,Hídfalu,ict-research-consultant,digital-games-developer
+82,Fekete E. Erika,szaboerzsebet82@example.com,Mellékhalas,ict-quality-assurance-manager,ict-test-analyst
+83,Kerekes György Zoltán,balazsnagy83@example.com,Györgyfalva,web-content-manager,webmaster
+84,Székelyné Dr. Kovács Gyöngyi Eszter,maria4684@example.com,Mellékfalva,video-technician,audio-production-technician
+85,Tóth Éva Anikó,nikoletthorvath85@example.com,Hátberény,ict-help-desk-agent,performance-rental-technician
+86,Dr. Magyar Márk Imre,cvass86@example.com,Veszprém,digital-forensics-expert,ict-security-manager
+87,Juhász Edit,mmajor87@example.com,Kecskemét,ict-accessibility-tester,ict-usability-tester
+88,Dr. Balog Mária,zfodor88@example.com,Hetvennádasd,ethical-hacker,ict-system-tester
+89,M. Balogh Viktória,vorosarpad89@example.com,Mosonmagyaróvár,sound-artist,boom-operator
+90,Magyar Ildikó Ibolya,jozsefsandor90@example.com,Hátváros,green-ict-consultant,ict-security-consultant
+91,Fehérné Bálint Orsolya,osoos91@example.com,Vác,ict-security-administrator,database-administrator
+92,Vörös Lászlóné Nagy Rozália,virag1692@example.com,Felsőmellékapáti,data-quality-specialist,data-analyst
+93,Halászné Nagy Enikő,adam6293@example.com,Némethetvenharaszti,data-quality-specialist,data-scientist
+94,Tóthné Tóth Márta,pfekete94@example.com,Haraszti,integration-engineer,ict-system-integration-consultant
+95,T. Szabó Zoltán,hajdumatyas95@example.com,Fürdőkőrös,database-administrator,database-designer
+96,P. Varga Lajos,dorsos96@example.com,Kereszthida,ict-security-technician,ict-system-tester
+97,Dr. Kissné Varga Zsuzsanna Alexandra,borbelymargit97@example.com,Hídharaszti,software-developer,ict-application-configurator
+98,Dr. Kerekesné Máté Nóra Gyöngyi,gabriella3998@example.com,Keresztfalu,ict-business-analyst,ict-business-analysis-manager
+99,Dr. Magyar Klára Petra,halaszzsuzsanna99@example.com,Székbánya,embedded-systems-software-developer,mobile-application-developer
+100,Kiss József,mihaly62100@example.com,Bakonyszékkőrös,data-quality-specialist,data-warehouse-designer
+101,Dr. Balogh Zoltánné,tiborveres101@example.com,Székvár,ethical-hacker,ict-security-technician
+102,Varga Istvánné,tothroza102@example.com,Szigetszentmiklós,ict-test-analyst,software-tester
+103,Kissné Pap Gabriella,fazekaslaszlo103@example.com,Miskolc,ict-integration-tester,digital-games-tester
+104,Kis Tünde Anita,janos37104@example.com,Újváros,ict-technician,database-administrator
+105,Nagy B. Martin,zsuzsanna12105@example.com,Szentmártonhalas,ict-disaster-recovery-analyst,ict-security-manager
+106,Szabó András Attila,judit86106@example.com,Szigetszentmiklós,ict-capacity-planner,software-architect
+107,Lengyelné Balázs Gyöngyi Márta,laszlo53107@example.com,Mellékfalva,recording-studio-technician,sound-designer
+108,Dr. Kocsisné Juhász Henrietta Judit,hhorvath108@example.com,Györgyfalu,ict-disaster-recovery-analyst,ict-security-administrator
+109,Dr. M. Boros Ilona,anitaszabo109@example.com,Nyíregyháza,numerical-tool-and-process-control-programmer,user-interface-developer
+110,Dr. Szabó Balog Renáta,horvathluca110@example.com,Törökmártonapáti,audio-visual-technician,recording-studio-technician
+111,Vass József Ferenc,evanagy111@example.com,Hídnádasd,ict-network-engineer,industrial-mobile-devices-software-developer
+112,Takács Krisztiánné,xnemeth112@example.com,Eger,ict-intelligent-systems-designer,data-warehouse-designer
+113,Balogh Dezső László,jeno00113@example.com,Tóthida,ict-network-administrator,ict-system-administrator
+114,Kovács Gizella Erika,vargasandor114@example.com,Kuntapolcaharaszti,ict-research-consultant,embedded-systems-software-developer
+115,Varga V. Magdolna,bbalogh115@example.com,Belsőtótkőrös,software-tester,ict-test-analyst
+116,Szabóné Németh Ilona Judit,ukiss116@example.com,Újhetvenvára,user-interface-developer,embedded-systems-software-developer
+117,Dr. Tóth K. Mária,kovacsjanos117@example.com,Tatabánya,ict-network-engineer,industrial-mobile-devices-software-developer
+118,Dr. Oláhné Lakatos Margit,molnarnora118@example.com,Tótnémeti,database-designer,data-quality-specialist
+119,Simonné Dr. Mészáros Éva,gszabo119@example.com,Tótkőrös,digital-games-developer,industrial-mobile-devices-software-developer
+120,Jakab Anita,xdeak120@example.com,Nagykanizsa,embedded-systems-software-developer,ict-application-developer
+121,Lakatosné Rácz Klára,laszlo44121@example.com,Hátháza,system-configurator,ict-network-engineer
+122,Tóth M. István,kovacsmaria122@example.com,Hetvenbánya,ict-security-consultant,ict-resilience-manager
+123,Kiss Csilla,fabiansandor123@example.com,Debrecen,data-scientist,data-quality-specialist
+124,Horváthné Gál Irén,nmolnar124@example.com,Miskolc,ict-network-technician,ict-network-administrator
+125,Kovács Dóra,ttakacs125@example.com,Borsodhetvenváros,ict-consultant,ict-system-developer
+126,Szabó Virág Norbert,imre10126@example.com,Ligetkövesd,audio-production-technician,recording-studio-technician
+127,F. Fodor Tibor,jozsef06127@example.com,Pusztadevecser,data-quality-specialist,data-scientist
+128,Dr. Mészárosné Szalai Ildikó Erzsébet,patakigabor128@example.com,Sopron,web-content-manager,web-developer
+129,Dr. Kovácsné Deák Ilona,zpapp129@example.com,Ligetvára,video-technician,sound-operator
+130,Sándor I. Balázs,ritavarga130@example.com,Salgótarján,ict-security-manager,ict-disaster-recovery-analyst
+131,Dr. Kovács A. Katalin,monikabalazs131@example.com,Rácmellékharaszti,aviation-data-communications-manager,database-integrator
+132,Németh Marcellné Lakatos Rozália,nikolett52132@example.com,Györgyhalas,numerical-tool-and-process-control-programmer,embedded-systems-software-developer
+133,Horváth Anna Mária,horvathdominik133@example.com,Magyartótvár,ict-business-analyst,software-architect
+134,Vass Pál György,jfarkas134@example.com,Vác,ict-auditor-manager,ict-security-consultant
+135,Máté Imre,gyulafarkas135@example.com,Dunamellékfa,embedded-system-designer,software-architect
+136,Dr. Péterné Kovács Piroska,szaboviktor136@example.com,Tamásiberény,data-analyst,knowledge-engineer
+137,Dr. Kozma Andrea Marianna,fazekaszsuzsanna137@example.com,Egyházasgyörgykőrös,ict-security-consultant,chief-ict-security-officer
+138,Horváthné Magyar Ibolya,robertolah138@example.com,Drávamártonhida,ict-technician,database-administrator
+139,Szalai István Csaba,timea81139@example.com,Hódmezővásárhely,digital-games-developer,embedded-systems-software-developer
+140,Kiss Ágnes Éva,karolyjakab140@example.com,Borsodmindszentnádasd,ict-system-architect,data-warehouse-designer
+141,Deák Kovács Norbert,galterezia141@example.com,Pécs,mastering-engineer,broadcast-technician
+142,Dr. Tóth Orsós Tímea,erikanagy142@example.com,Fürdőfalva,ict-technician,ict-network-technician
+143,Ráczné Dr. Boros Ilona,gyorgysomogyi143@example.com,Falu,database-designer,data-quality-specialist
+144,Barna Irma,xbogdan144@example.com,Tamásiberény,mastering-engineer,sound-artist
+145,Tóth Szabó Anikó,istvan75145@example.com,Mosonmagyaróvár,ict-research-consultant,computer-scientist
+146,Pap Antal Sándor,csabajonas146@example.com,Bácsgyörgyfalva,web-developer,ict-application-configurator
+147,Dr. Dudásné Molnár Andrea,tamas15147@example.com,Nagyhátfa,embedded-system-designer,software-architect
+148,Dr. Fazekasné Tóth Zsuzsanna,ipinter148@example.com,Veszprém,ict-intelligent-systems-designer,ict-network-architect
+149,Nagy Erzsébet Anna,erzsebetlukacs149@example.com,Kaposvár,ict-research-consultant,user-experience-analyst
+150,Horváth Sándor László,ntorok150@example.com,Györgyfa,search-engine-optimisation-expert,audio-production-technician
+151,Dr. Takácsné Szilágyi Anita,imrenagy151@example.com,Keresztharaszti,ict-system-tester,ict-integration-tester
+152,Gál Kovács Diána,sooserzsebet152@example.com,Zalaegerszeg,web-developer,ict-system-developer
+153,Vörös László,qbarta153@example.com,Budapest,ethical-hacker,ict-security-technician
+154,Nagy Ilona,bogdankrisztina154@example.com,Mindszentnémeti,ict-system-administrator,data-centre-operator
+155,Varga Piroska,ebarta155@example.com,Győr,projectionist,performance-rental-technician
+156,Dr. Balogné Németh Zsuzsanna,fazekasmarianna156@example.com,Vár,database-developer,database-designer
+157,Csonka E. Ilona,imreilles157@example.com,Egyházasmártonfa,enterprise-architect,software-architect
+158,Németh Attilané Németh Sára,emma77158@example.com,Berény,green-ict-consultant,ict-system-integration-consultant
+159,Dr. Molnár Péter Elemér,erzsebetvarga159@example.com,Újfürdővár,enterprise-architect,software-architect
+160,Dr. P. Orsós Ferenc,magyaredina160@example.com,Kaposvár,ict-quality-assurance-manager,digital-games-tester
+161,Prof. Dr. Barna István Gyula,maria20161@example.com,Békéshídnádasd,sound-artist,sound-operator
+162,Sándor Kiss Attila,simonjudit162@example.com,Hátbánya,audio-visual-technician,projectionist
+163,Mészáros Andrásné Kiss Ibolya,kinganagy163@example.com,Ráctamásihida,user-interface-developer,web-developer
+164,Dr. Balog Dánielné Szabó Márta,iszabo164@example.com,Békésmindszentbánya,ict-resilience-manager,ict-disaster-recovery-analyst
+165,Somogyiné Prof. Dr. Szekeres Tünde Gizella,vivien22165@example.com,Tamásifalva,digital-forensics-expert,ict-resilience-manager
+166,Szabó József Máté,vargakatalin166@example.com,Székkőrös,web-developer,ict-application-configurator
+167,Lengyel László Attila,xtakacs167@example.com,Tótharaszti,ethical-hacker,ict-security-technician
+168,Faragó Török Tamás,zoltan89168@example.com,Bakonyhetvenberény,telecommunications-engineering-technician,ict-system-administrator
+169,Dr. Kovács Józsefné,gabormajor169@example.com,Drávatamásivár,ict-system-administrator,data-centre-operator
+170,Dr. Szilágyiné Juhász Erzsébet Zsuzsanna,baloghgabor170@example.com,Pécs,digital-games-tester,ict-test-analyst
+171,B. Halász Gábor,vereslaszlo171@example.com,Hajdúfürdőfalu,digital-games-developer,ict-application-developer
+172,Molnár Gyulané Balogh Tímea,anna47172@example.com,Somogymártonbánya,audio-production-technician,recording-studio-technician
+173,Nagy Németh Zsolt,karolytoth173@example.com,Szolnok,sound-artist,broadcast-technician
+174,Illés Kevinné,magdolnapapp174@example.com,Újkeresztbánya,ict-security-manager,chief-ict-security-officer
+175,Németh József László,avass175@example.com,Mezőtótvára,ict-research-consultant,digital-games-developer
+176,Magyarné Dr. Tóth Gréta,tbalogh176@example.com,Híddevecser,performance-rental-technician,ict-help-desk-agent
+177,Baloghné Prof. Dr. Szabó Judit,horvatheva177@example.com,Hódmezővásárhely,video-operator,video-technician
+178,E. Pap Julianna,erika65178@example.com,Somogyhídharaszti,software-architect,ict-system-architect
+179,Dr. Horváth Andrea,rjakab179@example.com,Hódmezővásárhely,aviation-data-communications-manager,ict-business-analysis-manager
+180,Dr. Kovács Ágnes Dorottya,monika39180@example.com,Érd,camera-operator,recording-studio-technician
+181,M. Tóth Margit,jpapp181@example.com,Vác,database-integrator,database-administrator
+182,Varga M. Katalin,eva88182@example.com,Veszprém,computer-scientist,user-experience-analyst
+183,Horváthné Orosz Ágnes,bartakatalin183@example.com,Ózd,ict-security-manager,ict-security-consultant
+184,Nagyné Farkas Jázmin,erikaolah184@example.com,Németfürdőváros,sound-editor,recording-studio-technician
+185,Kiss Szabolcsné Szabó Szilvia,tothmarton185@example.com,Mindszentkövesd,ict-application-configurator,ict-system-developer
+186,Molnárné Balog Kinga,fodormaria186@example.com,Szolnok,ict-help-desk-agent,performance-rental-technician
+187,Farkasné Dr. Tamás Erika Magdolna,judit49187@example.com,Keresztfalva,video-technician,sound-operator
+188,Dr. Hegedüs Vince Norbert,agnesbalogh188@example.com,Hátkőrös,digital-forensics-expert,ict-security-manager
+189,Kelemenné Dr. Kovács Dóra,zhajdu189@example.com,Széknádasd,ethical-hacker,ict-security-technician
+190,Dr. D. Varga Péter,eszter33190@example.com,Székesfehérvár,ict-network-administrator,ict-system-administrator
+191,Dr. Tóth Györgyné Oláh Ilona,annanagy191@example.com,Háthalas,mobile-application-developer,ict-system-developer
+192,Bogdán László Csaba,rolandmajor192@example.com,Mellékfalu,industrial-mobile-devices-software-developer,embedded-systems-software-developer
+193,Horváth Sándorné Nagy Beáta,mariamagyar193@example.com,Nyékhetvenapáti,data-analyst,data-quality-specialist
+194,Nagyné Dr. Fazekas Éva,terezia04194@example.com,Nagykanizsa,broadcast-technician,mastering-engineer
+195,Péter Sándor Szilveszter,ibodnar195@example.com,Sopron,broadcast-technician,sound-artist
+196,Dr. Varga Béla Gyula,laszlovarga196@example.com,Tapolcafalu,data-scientist,data-analyst
+197,A. Hajdu Bálint,jozsef12197@example.com,Oroszhátfalva,data-analyst,database-administrator
+198,Kiss Tamás,emese49198@example.com,Eger,ict-resilience-manager,ict-security-manager
+199,Balázs Dávid,kismatyas199@example.com,Somogyfürdőberény,search-engine-optimisation-expert,web-content-manager
+200,Dr. Bogdán Dávidné Török Zita,ilona32200@example.com,Mindszentbánya,projectionist,audio-visual-technician

@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ruff_cache/
+data/raw/
+.claude/
+CLAUDE.md
+AGENTS.md
+web/node_modules/
+web/dist/

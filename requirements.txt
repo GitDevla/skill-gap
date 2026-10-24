@@ -1,0 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.14.1+cpu
+sentence-transformers==6.1.0
+psycopg[binary]==3.3.6
+pymongo==4.19.0
+redis==8.1.0
+neo4j==6.4.1
+qdrant-client==1.19.1
+typer==0.27.3
+Faker==40.43.0
+fastapi==0.156.1
+uvicorn==0.54.0
+pydantic==2.14.1
+ruff==0.17.1

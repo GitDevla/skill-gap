@@ -1,0 +1,19 @@
+{
+  "source": "ESCO REST API https://ec.europa.eu/esco/api/resource/",
+  "isco_root_groups": [
+    "C25",
+    "C35"
+  ],
+  "fetched_on": "2026-10-20",
+  "languages": [
+    "en",
+    "hu"
+  ],
+  "seed": 42,
+  "counts": {
+    "occupations": 87,
+    "skills": 878,
+    "people": 200,
+    "person_skills": 5788
+  }
+}
